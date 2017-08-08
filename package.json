@@ -1,0 +1,19 @@
+{
+  "name": "electron-desktop-app",
+  "version": "1.0.0",
+  "description": "simple-system-info",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [
+    "electron",
+    "javascript",
+    "desktop-app"
+  ],
+  "author": "sajibcse68",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^1.6.11"
+  }
+}
